@@ -1,0 +1,22 @@
+.login__container {
+    height: 480px;
+    width: 480px;
+    background: white;
+    box-shadow: 0px 16px 32px rgba(0,0,0,0.12);
+    border-radius: 24px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__container p{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.login__container .MuiSvgIcon-root {
+    color: white;
+    padding-left: 8px;
+}

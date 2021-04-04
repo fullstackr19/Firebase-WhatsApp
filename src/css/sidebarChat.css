@@ -1,0 +1,59 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+.sidebarChat {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8px;
+    box-sizing: border-box;
+    height: 64px;
+    transition: all 0.3s ease-out;
+}
+
+.sidebarChat__info {
+    flex: 0.88;
+    height: 48px;
+    text-align: left;
+    transition: all 0.3s ease-out;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.sidebarChat:hover {
+    background-color: white;
+    color: black;
+}
+
+.sidebarChat:hover  h3 {
+    color: black;
+}
+
+.sidebarChat:hover  p {
+    color: black;
+}
+
+
+
+.sidebarChat__info h3{
+    font-size: 20px;
+    padding: 0;
+    margin: 0 0 -12px 0;
+    color: white;
+    text-decoration: none !important;
+}
+
+.sidebarChat__info p {
+    font-size: 14px;
+    margin-top: 16px;
+    color: white;
+    text-decoration: none !important;
+}
+
+.sidebarChat h2 {
+    text-decoration: underline;
+}
