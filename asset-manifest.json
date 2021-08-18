@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firebase-WhatsApp/static/css/main.cfa7b25b.chunk.css",
+    "main.js": "/Firebase-WhatsApp/static/js/main.bb3030a5.chunk.js",
+    "main.js.map": "/Firebase-WhatsApp/static/js/main.bb3030a5.chunk.js.map",
+    "runtime-main.js": "/Firebase-WhatsApp/static/js/runtime-main.915f307a.js",
+    "runtime-main.js.map": "/Firebase-WhatsApp/static/js/runtime-main.915f307a.js.map",
+    "static/js/2.9a5ad451.chunk.js": "/Firebase-WhatsApp/static/js/2.9a5ad451.chunk.js",
+    "static/js/2.9a5ad451.chunk.js.map": "/Firebase-WhatsApp/static/js/2.9a5ad451.chunk.js.map",
+    "static/js/3.dcccaa31.chunk.js": "/Firebase-WhatsApp/static/js/3.dcccaa31.chunk.js",
+    "static/js/3.dcccaa31.chunk.js.map": "/Firebase-WhatsApp/static/js/3.dcccaa31.chunk.js.map",
+    "index.html": "/Firebase-WhatsApp/index.html",
+    "static/css/main.cfa7b25b.chunk.css.map": "/Firebase-WhatsApp/static/css/main.cfa7b25b.chunk.css.map",
+    "static/js/2.9a5ad451.chunk.js.LICENSE.txt": "/Firebase-WhatsApp/static/js/2.9a5ad451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.915f307a.js",
+    "static/js/2.9a5ad451.chunk.js",
+    "static/css/main.cfa7b25b.chunk.css",
+    "static/js/main.bb3030a5.chunk.js"
+  ]
+}
